@@ -1,8 +1,10 @@
 ## Learning Resources
 
-###Preparing for Technical Interview
+### Preparing for Technical Interview
 
-|Resource|Type|
+|Resource|Description|
 |---|---|
 |[Hacker Rank](https://www.hackerrank.com/)| Technical problems|
 ||
+
+### Angular Books
