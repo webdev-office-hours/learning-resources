@@ -1,4 +1,8 @@
 ## Learning Resources
 
--  hackerrank
--  
+###Preparing for Technical Interview
+
+|Resource|Type|
+|---|---|
+|[Hacker Rank](https://www.hackerrank.com/)| Technical problems|
+||
