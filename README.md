@@ -4,7 +4,8 @@
 
 |Resource|Description|
 |---|---|
-|[Hacker Rank](https://www.hackerrank.com/)| Technical problems|
+|[Hacker Rank](https://www.hackerrank.com/)| Technical problems practice|
+|[10 Interview Questions every JS Developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.dxox076zp)| Good overview of a typical frontend position interview
 
 ### Articles
 |Resource|Description|
