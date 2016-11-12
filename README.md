@@ -12,9 +12,11 @@
 
 ## Podcasts
 
-1. [JavaScript Air](https://itunes.apple.com/us/podcast/javascript-air/id1066446588?mt=2) - A podcast all about JavaScript. *Note: Production of episodes have stopped but it's a really good resource to listen to the interviews done*
+1. [JavaScript Air](https://itunes.apple.com/us/podcast/javascript-air/id1066446588?mt=2) - A podcast all about JavaScript. *Note: Production of episodes have stopped but it's a really good resource to listen to the interviews that have taken place*
 2. [JavaScript Jabber](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2) - A podcast where the discussions are based on JavaScript 
 3. [Angular Air](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2) - A podcast all about Angular
+4. [Adventures in Angular](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2) - Another podcast that is all about Angular
+5. [Software Engineering Daily](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2) - Interviews on software
 
 ### Curated resources
 
