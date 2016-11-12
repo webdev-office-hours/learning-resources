@@ -14,7 +14,7 @@
 
 ### Podcasts
 | Resource | Description |
-| ------ | ---- |
+| --- | ---- |
 | [JavaScript Air](https://itunes.apple.com/us/podcast/javascript-air/id1066446588?mt=2) | A podcast all about JavaScript. Note: Production of episodes have stopped but it's a really good resource to listen to the interviews done |
 | [JavaScript Jabber](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2) | A podcast where the discussions are based on JavaScript |
 
