@@ -18,7 +18,12 @@
 4. [Adventures in Angular](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2) - Another podcast that is all about Angular
 5. [Software Engineering Daily](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2) - Interviews on software
 
-### Curated resources
+## Books
+
+1. [ng-book](https://www.ng-book.com/) - A book based on Angular 1
+2. [ng-book 2](https://www.ng-book.com/2/) - A book based on Angular 2
+
+## Curated resources
 
 1. [Reddit: 540 Free Online programming/CS courses](https://www.reddit.com/r/learnprogramming/comments/5bmg2b/heres_a_list_of_540_free_online_programmingcs/) - (MOOCs) with feedback(i.e. exams/homeworks/assignments)
 2. [Dev Free Books](https://devfreebooks.github.io/) - A collection of free books for developers
