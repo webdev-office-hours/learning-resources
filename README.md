@@ -10,6 +10,9 @@
 
 1. [Becoming a Web Developer from Scratch](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.o6dovu9fy) - Great for insight for people wanting to start a career in frontend development without a computer science degree
 
+## Courses
+1. [Egg Head](http://www.egghead.io)
+
 ## Podcasts
 
 1. [JavaScript Air](https://itunes.apple.com/us/podcast/javascript-air/id1066446588?mt=2) - A podcast all about JavaScript. *Note: Production of episodes have stopped but it's a really good resource to listen to the interviews that have taken place*
