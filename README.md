@@ -5,10 +5,10 @@
 1. [Hacker Rank](https://www.hackerrank.com/) - Technical problems practice
 2. [10 Interview Questions every JS Developer should know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.dxox076zp) - Good overview of a typical frontend position interview
 
-
 ## Articles
 
 1. [Becoming a Web Developer from Scratch](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.o6dovu9fy) - Great for insight for people wanting to start a career in frontend development without a computer science degree
+2. 
 
 ## Courses
 1. [Egg Head](http://www.egghead.io)
@@ -30,3 +30,8 @@
 
 1. [Reddit: 540 Free Online programming/CS courses](https://www.reddit.com/r/learnprogramming/comments/5bmg2b/heres_a_list_of_540_free_online_programmingcs/) - (MOOCs) with feedback(i.e. exams/homeworks/assignments)
 2. [Dev Free Books](https://devfreebooks.github.io/) - A collection of free books for developers
+
+## Learning Tools
+
+1. [JSFiddle Online Javascript Sandbox](https://jsfiddle.net/) - An online sandbox for small one-off javascript projects
+
