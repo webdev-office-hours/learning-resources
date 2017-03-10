@@ -7,8 +7,10 @@
 
 ## Articles
 
-1. [Becoming a Web Developer from Scratch](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.o6dovu9fy) - Great for insight for people wanting to start a career in frontend development without a computer science degree
-2. 
+1. [Becoming a Web Developer from Scratch](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.o6dovu9fy)
+- Great for insight for people wanting to start a career in frontend development without a computer science degree
+2. [Free Online Programming and Computer Science Courses](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.8e15joe88)
+- A list of free courses focused on topics like programming, computer science, data science, and artificial intelligence.
 
 ## Courses
 1. [Egg Head](http://www.egghead.io)
@@ -30,6 +32,8 @@
 
 1. [Reddit: 540 Free Online programming/CS courses](https://www.reddit.com/r/learnprogramming/comments/5bmg2b/heres_a_list_of_540_free_online_programmingcs/) - (MOOCs) with feedback(i.e. exams/homeworks/assignments)
 2. [Dev Free Books](https://devfreebooks.github.io/) - A collection of free books for developers
+3. [Front end developer handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) - A guide and outline for front end developers.
+
 
 ## Learning Tools
 
