@@ -12,8 +12,10 @@
 2. [Free Online Programming and Computer Science Courses](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e#.8e15joe88)
 - A list of free courses focused on topics like programming, computer science, data science, and artificial intelligence.
 
-## Courses
+## Online Courses
 1. [Egg Head](http://www.egghead.io)
+2. [PluralSight](https://www.pluralsight.com/) 
+3. [CodeSchool](https://www.codeschool.com/)
 
 ## Podcasts
 
@@ -43,4 +45,5 @@
 1. [ng-newsletter](http://cur.ng-newsletter.com/issues/) - One of the best Angular newsletters out there.
 2. [JavaScript Weekly](http://javascriptweekly.com/issues) - A weekly newsletter that focuses on JavaScript.
 3. [Changelong Weekly](https://changelog.com/weekly/archive) - A weekly newsletter that covers technology and open source projects.
-
+4. [FrontEndFocus](http://frontendfocus.co/issues) - A weekly newsletter that focuses on anything front end development.
+5. [CSS Weekly](http://css-weekly.com/archives/) - A weekly newsletter that focuses on CSS.
