@@ -28,14 +28,19 @@
 1. [ng-book](https://www.ng-book.com/) - A book based on Angular 1
 2. [ng-book 2](https://www.ng-book.com/2/) - A book based on Angular 2
 
-## Curated resources
+## Curated Resources
 
 1. [Reddit: 540 Free Online programming/CS courses](https://www.reddit.com/r/learnprogramming/comments/5bmg2b/heres_a_list_of_540_free_online_programmingcs/) - (MOOCs) with feedback(i.e. exams/homeworks/assignments)
 2. [Dev Free Books](https://devfreebooks.github.io/) - A collection of free books for developers
 3. [Front end developer handbook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) - A guide and outline for front end developers.
 
-
 ## Learning Tools
 
 1. [JSFiddle Online Javascript Sandbox](https://jsfiddle.net/) - An online sandbox for small one-off javascript projects
+
+## Newsletters
+
+1. [ng-newsletter](http://cur.ng-newsletter.com/issues/) - One of the best Angular newsletters out there.
+2. [JavaScript Weekly](http://javascriptweekly.com/issues) - A weekly newsletter that focuses on JavaScript.
+3. [Changelong Weekly](https://changelog.com/weekly/archive) - A weekly newsletter that covers technology and open source projects.
 
