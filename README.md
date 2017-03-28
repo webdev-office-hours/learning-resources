@@ -31,6 +31,12 @@
 3. [Angular Air](https://itunes.apple.com/us/podcast/angular-air/id940806858?mt=2) - A podcast all about Angular
 4. [Adventures in Angular](https://itunes.apple.com/us/podcast/adventures-in-angular/id907361052?mt=2) - Another podcast that is all about Angular
 5. [Software Engineering Daily](https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853?mt=2) - Interviews on software
+6. [FrontEnd Happy Hour](https://itunes.apple.com/us/podcast/front-end-happy-hour/id1089047924?mt=2&ign-mpt=uo%3D4) - Discussions with engineers across different companies.
+7. [JS Party](https://itunes.apple.com/us/podcast/js-party/id1209616598?mt=2&ign-mpt=uo%3D4) - Discussions on anything web.
+8. [LearnPub Podcast](https://itunes.apple.com/us/podcast/leanpub-podcast/id517117137?mt=2&ign-mpt=uo%3D4) - A series of interviews on the authors of Learnpub books.
+9. [Soft Skills Engineering](https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2&ign-mpt=uo%3D4) - Discussion on non-technical subjects that will help you become a better developer.
+10. [Software Engineering Radio](https://itunes.apple.com/us/podcast/software-engineering-radio-podcast-for-professional/id120906714?mt=2&ign-mpt=uo%3D4) - Discussions on various topics in the IT industry.
+11. [The Changelog](https://itunes.apple.com/us/podcast/the-changelog/id341623264?mt=2&ign-mpt=uo%3D4) - A podcast that covers people and technology.
 
 ## Books
 
