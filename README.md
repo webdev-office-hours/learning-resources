@@ -13,9 +13,16 @@
 - A list of free courses focused on topics like programming, computer science, data science, and artificial intelligence.
 
 ## Online Courses
-1. [Egg Head](http://www.egghead.io)
+1. [Egghead](http://www.egghead.io)
 2. [PluralSight](https://www.pluralsight.com/) 
 3. [CodeSchool](https://www.codeschool.com/)
+4. [Udacity](https://www.udacity.com/)
+5. [Codecademy](https://www.codecademy.com/)
+6. [Treehouse](https://teamtreehouse.com/)
+7. [Tutsplus](https://tutsplus.com/)
+8. [Lynda](https://www.lynda.com/)
+9. [EdX](https://www.edx.org/)
+10. [Coursera](https://www.coursera.org/)
 
 ## Podcasts
 
