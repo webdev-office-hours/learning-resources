@@ -60,3 +60,6 @@
 3. [Changelong Weekly](https://changelog.com/weekly/archive) - A weekly newsletter that covers technology and open source projects.
 4. [FrontEndFocus](http://frontendfocus.co/issues) - A weekly newsletter that focuses on anything front end development.
 5. [CSS Weekly](http://css-weekly.com/archives/) - A weekly newsletter that focuses on CSS.
+
+## Apps
+1. [SoloLearn](https://www.sololearn.com/)
